@@ -39,3 +39,14 @@ Then open your terminal and type:
 
 ```bash
 python rock_paper_scissors.py
+
+---
+*
+## 👩‍💻 Made By
+
+**Mohammadiya Qureshi**  
+📍 Rawalpindi, Pakistan  
+📫 [mohammadiyaqureshi@gmail.com](mailto:mohammadiyaqureshi@gmail.com)
+
+---
+
