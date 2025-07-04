@@ -41,7 +41,9 @@ Then open your terminal and type:
 python rock_paper_scissors.py
 
 ---
-*
+
+
+
 ## 👩‍💻 Made By
 
 **Mohammadiya Qureshi**  
