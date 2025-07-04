@@ -44,7 +44,7 @@ python rock_paper_scissors.py
 
 
 
-## 👩‍💻 Made By
+## 👩‍💻 About the Developer
 
 **Mohammadiya Qureshi**  
 📍 Rawalpindi, Pakistan  
