@@ -50,5 +50,5 @@ python rock_paper_scissors.py
 📍 Rawalpindi, Pakistan  
 📫 [mohammadiyaqureshi@gmail.com](mailto:mohammadiyaqureshi@gmail.com)
 
----
+
 
