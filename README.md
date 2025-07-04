@@ -38,7 +38,7 @@ Make sure Python is installed.
 Then open your terminal and type:
 
 ```bash
-python rock_paper_scissors.py
+python rock_paper.py
 ```
 ---
 
